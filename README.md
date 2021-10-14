@@ -6,6 +6,8 @@ tf2b parses Terraform commands' execution result and applies it to an arbitrary 
 
 tf2b has enhanced notifications to Backlog. For example, you can choose between Markdown and Backlog text formatting, and the notification information such as base url, project, repository, etc. is automatically read from the repository's .git/config.
 
+<br />
+
 <p align="center">
   <img src="./misc/images/example.png" width="600">
 </p>
