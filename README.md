@@ -14,7 +14,6 @@ tf2b has enhanced notifications to Backlog. For example, you can choose between 
 
 ## Table of contents
 
-* [Table of contents](#table-of-contents)
 * [Installation](#installation)
 * [What tf2b does](#what-tf2b-does)
 * [Usage](#usage)
